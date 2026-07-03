@@ -61,7 +61,8 @@ Focus:
 * Loop understanding
 * Variable manipulation
 * Logical reasoning
-  
+
+#### Problems solved in Phase 1
 Print numbers from 1 to N
 Print numbers from N to 1
 Print all even numbers from 1 to N
@@ -114,7 +115,7 @@ Focus:
 * Real-world programming logic
 * Decision making
 * Flow control
-
+#### Problems solved in Phase 2
 Print numbers from 1 to N (execute at least once)
 Take input until the user enters 0
 Print the multiplication table of a number (execute at least once)
@@ -131,7 +132,7 @@ Keep asking for the password until it is correct
 
 Convert previous logic into cleaner and more optimized implementations using Python's `for` loop.
 
-Topics include:
+**Topics include:**
 
 * Range optimization
 * Cleaner syntax
@@ -145,36 +146,13 @@ Focus:
 * Writing production-quality code
 * Code optimization
 * Readability
+#### Problems solved in Phase 3
 Print numbers from 1 to N (using for)
 Print numbers from N to 1 (using for)
 Find the sum of the first N numbers (using for)
 Find the factorial of a number (using for)
 Print all divisors of a number
 Count the total number of divisors of a number
-
----
-
-# 🧠 Skills Developed
-
-✔ Problem Solving
-
-✔ Logical Thinking
-
-✔ Programming Fundamentals
-
-✔ Loop Mastery
-
-✔ Clean Coding
-
-✔ Code Optimization
-
-✔ Pattern Recognition
-
-✔ Interview Preparation
-
-✔ Python Programming
-
-✔ Algorithmic Thinking
 
 ---
 
@@ -209,31 +187,6 @@ This repository follows a progressive learning approach where each phase strengt
 
 ---
 
-# 🚀 Future Roadmap
-
-The repository will continue to grow with:
-
-* Arrays
-* Strings
-* Searching
-* Sorting
-* Recursion
-* Linked Lists
-* Stacks
-* Queues
-* Hashing
-* Trees
-* Binary Search Trees
-* Heaps
-* Graphs
-* Greedy Algorithms
-* Backtracking
-* Dynamic Programming
-* LeetCode Solutions
-* Interview Questions
-* Time & Space Complexity Analysis
-
----
 
 # ⭐ If You Like This Repository
 
@@ -253,6 +206,6 @@ If this repository helps you in your DSA journey:
 
 **Abhishek Tiwari**
 
-Aspiring **Data Engineer** | Python Programmer | DSA Learner | Problem Solver
+**Data Engineer** | Problem Solver
 
 *"Small improvements every day lead to extraordinary results."*
