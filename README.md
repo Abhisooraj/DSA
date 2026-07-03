@@ -61,7 +61,37 @@ Focus:
 * Loop understanding
 * Variable manipulation
 * Logical reasoning
-
+  
+Print numbers from 1 to N
+Print numbers from N to 1
+Print all even numbers from 1 to N
+Print all odd numbers from 1 to N
+Print numbers divisible by both 3 and 5 from 1 to N
+Find the sum of the first N natural numbers
+Find the sum of even numbers up to N
+Find the sum of odd numbers up to N
+Count numbers divisible by 7 from 1 to N
+Find the average of the first N numbers
+Count digits in a number
+Reverse a number
+Find the sum of digits
+Find the product of digits
+Check whether a number is a palindrome
+Check whether a number is prime
+Print all prime numbers from 1 to N
+Check whether a number is an Armstrong number
+Check whether a number is a Perfect number
+Find the GCD of two numbers using loops
+Print the Fibonacci series up to N terms
+Find the sum of the Fibonacci series
+Find the factorial of a number
+Calculate a^b using loops
+Print squares from 1 to N
+Print cubes from 1 to N
+Print numbers between A and B
+Count numbers divisible by both 2 and 3 in a given range
+Find the largest digit in a number
+Find the smallest digit in a number
 ---
 
 ## ✅ Phase 2 — Do-While Thinking & Control Flow
@@ -85,6 +115,16 @@ Focus:
 * Decision making
 * Flow control
 
+Print numbers from 1 to N (execute at least once)
+Take input until the user enters 0
+Print the multiplication table of a number (execute at least once)
+Keep asking for input until the user enters a positive number
+Menu-driven calculator (Add, Subtract, Exit)
+Keep taking numbers and print their sum until the user enters -1
+Count how many inputs the user entered before stopping
+Find the maximum number entered until the user stops
+Guess the random number (loop until correct)
+Keep asking for the password until it is correct
 ---
 
 ## ✅ Phase 3 — Clean Coding & FOR Loop Optimization
@@ -105,6 +145,12 @@ Focus:
 * Writing production-quality code
 * Code optimization
 * Readability
+Print numbers from 1 to N (using for)
+Print numbers from N to 1 (using for)
+Find the sum of the first N numbers (using for)
+Find the factorial of a number (using for)
+Print all divisors of a number
+Count the total number of divisors of a number
 
 ---
 
