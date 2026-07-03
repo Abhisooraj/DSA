@@ -171,9 +171,9 @@ Focus:
 78910
 - Half Pyramid (Left Aligned)
 - Half Pyramid (Right Aligned)
-- Inverted Right Half Pyramid (from your recent addition)
+- Inverted Right Half Pyramid 
 - Full Pyramid
-- Diamond Pattern (from your recent addition)
+- Diamond Pattern
 
 ---
 
