@@ -156,6 +156,24 @@ Focus:
 - Find the factorial of a number (using `for`)
 - Print all divisors of a number
 - Count the total number of divisors of a number
+- Count the total number of divisors
+- Check whether a number is prime (using √N optimization)
+- Find the GCD (Greatest Common Divisor) of two numbers using a loop
+- Print the pattern:
+1
+12
+123
+1234
+- Print the pattern:
+1
+23
+456
+78910
+- Half Pyramid (Left Aligned)
+- Half Pyramid (Right Aligned)
+- Inverted Right Half Pyramid (from your recent addition)
+- Full Pyramid
+- Diamond Pattern (from your recent addition)
 
 ---
 
