@@ -1,4 +1,4 @@
-# 🚀 DSA Logic Building Journey with Python
+# DSA Logic Building Journey with Python
 
 > **"Before solving Data Structures & Algorithms, learn how to think like a programmer."**
 
@@ -8,7 +8,7 @@ Instead of memorizing solutions, this repository focuses on developing **problem
 
 ---
 
-# 🎯 Goal
+# Goal
 
 Most beginners jump directly into DSA and struggle because their programming logic is weak.
 
